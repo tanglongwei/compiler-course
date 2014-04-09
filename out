@@ -1,0 +1,44 @@
+<keyword,begin> 
+<spacing,null> 
+<keyword,if> 
+<spacing,null> 
+<identifier,i> 
+<assign,:=> 
+<numberConstant,123> 
+<spacing,null> 
+<keyword,then> 
+<spacing,null> 
+<unrecognized word,^> 
+<spacing,null> 
+<identifier,A> 
+<assign,:=> 
+<identifier,I> 
+<spacing,null> 
+<arithmeticOperator,+> 
+<spacing,null> 
+<numberConstant,123> 
+<seperator,;> 
+<spacing,null> 
+<keyword,ELSE> 
+<spacing,null> 
+<arithmeticOperator,*> 
+<unrecognized word,&> 
+<spacing,null> 
+<keyword,IF> 
+<spacing,null> 
+<identifier,I> 
+<comparison,=> 
+<numberConstant,2> 
+<spacing,null> 
+<keyword,THEN> 
+<spacing,null> 
+<identifier,A> 
+<assign,:=> 
+<identifier,I> 
+<arithmeticOperator,+> 
+<numberConstant,1> 
+<seperator,;> 
+<spacing,null> 
+<keyword,END> 
+<seperator,.> 
+<unrecognized word,#> 

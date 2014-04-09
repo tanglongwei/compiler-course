@@ -1,0 +1,7 @@
+begin
+ if i:=123 then ^
+     A:=I + 123;
+     ELSE *&
+     IF I=2 THEN
+        A:=I+1;
+END.#
